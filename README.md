@@ -2,9 +2,9 @@
 
 Public website and digital-platform scaffold for a late-medieval reenactment fellowship (working name).
 
-**Repository:** https://github.com/MedievalSteve/pilgrim-souldiours.github.io  
+**Repository:** https://github.com/MedievalSteve/pilgrim-souldiours  
 
-**Live site (interim, until org transfer):** `https://medievalsteve.github.io/pilgrim-souldiours.github.io/`  
+**Live site (interim, until org transfer):** `https://medievalsteve.github.io/pilgrim-souldiours/`  
 
 **Target after org transfer:** `https://pilgrim-souldiours.github.io/` — follow [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)
 

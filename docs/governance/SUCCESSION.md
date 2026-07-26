@@ -18,8 +18,8 @@ At least **two people** must be able to:
 | Asset | Location / identifier | Primary custodian | Backup custodian | Status |
 |---|---|---|---|---|
 | GitHub Organization | `pilgrim-souldiours` (working slug) | Prior or designated web admin | Second org owner | **Create ASAP** — see [CREATE-GITHUB-ORG.md](CREATE-GITHUB-ORG.md) |
-| Website repo | Currently `MedievalSteve/pilgrim-souldiours.github.io` (transfer to org) | Web admin | Second collaborator | Bootstrapped; transfer pending |
-| GitHub Pages | Interim: `https://medievalsteve.github.io/pilgrim-souldiours.github.io/` → org URL after transfer | Web admin | Second owner | Enable after each transfer |
+| Website repo | Currently `MedievalSteve/pilgrim-souldiours` (transfer to org) | Web admin | Second collaborator | Bootstrapped; transfer pending |
+| GitHub Pages | Interim: `https://medievalsteve.github.io/pilgrim-souldiours/` → org URL after transfer | Web admin | Second owner | Enable after each transfer |
 | Custom domain | TBD | Arca | Prior | Not registered |
 | Google Workspace | TBD domain | Arca | Prior | Not started |
 | Role mailboxes | Prior / Armorum / Arca | Role holder | Prior | Placeholders only |
