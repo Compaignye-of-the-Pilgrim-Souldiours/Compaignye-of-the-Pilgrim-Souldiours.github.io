@@ -5,9 +5,9 @@
 - [x] Public static site (working brand)
 - [x] Digital platform docs and form field specs
 - [x] GitHub Organization `Compaignye-of-the-Pilgrim-Souldiours` created ([CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md))
-- [ ] Second Org Owner invited (association custodian)
 - [x] Repo transferred to org and renamed for Pages
 - [x] GitHub Pages live at `https://compaignye-of-the-pilgrim-souldiours.github.io/`
+- [ ] Second Org Owner invited — **after inauguration** (roles defined); set-up mode until then
 
 ## Next (committee / admin)
 

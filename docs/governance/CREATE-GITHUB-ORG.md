@@ -17,7 +17,9 @@
 - [x] Repo renamed to `Compaignye-of-the-Pilgrim-Souldiours.github.io`
 - [x] GitHub Pages pointed at `main` `/`
 
-## Still to do
+## Still to do (after inauguration)
+
+We are in **set-up mode**. A second Org Owner waits until roles are defined at inauguration — do not block other scaffold work on this.
 
 - [ ] Invite a **second Org Owner** (Prior, Arca, or club-controlled account)
 - [ ] Confirm `MedievalSteve` remains website admin with repo write (not sole Owner long-term)

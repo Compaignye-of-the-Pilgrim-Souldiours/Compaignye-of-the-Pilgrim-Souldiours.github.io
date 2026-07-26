@@ -41,7 +41,7 @@ Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 ## Governance checklist (Arca & Prior)
 
 1. Keep the **stand-alone** GitHub Organization — never under `riverbend-medieval` ([docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)).
-2. Org Owners = association custodians (add a second Owner ASAP); website admin gets repo access, not sole ownership.
+2. Org Owners = association custodians (second Owner after inauguration; set-up mode is fine until then); website admin gets repo access, not sole long-term ownership.
 3. Prefer Google Workspace for Nonprofits once eligible (ACNC / registered non-profit).
 4. Create role mailboxes; stop using personal Gmail for official correspondence.
 5. Apply Drive folder structure and sharing rules.

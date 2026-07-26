@@ -23,7 +23,7 @@ This project is **stand-alone**. Do not place the Organization, repo, Pages, or 
 
 | Asset | Location / identifier | Primary custodian | Backup custodian | Status |
 |---|---|---|---|---|
-| GitHub Organization | `Compaignye-of-the-Pilgrim-Souldiours` | Association custodian (Owner) | Second org Owner | Live — add second Owner |
+| GitHub Organization | `Compaignye-of-the-Pilgrim-Souldiours` | Website admin (`MedievalSteve`) during set-up | Second org Owner (post-inauguration) | Live — set-up mode; second Owner deferred until roles defined |
 | Website repo | `Compaignye-of-the-Pilgrim-Souldiours/Compaignye-of-the-Pilgrim-Souldiours.github.io` | Website admin (`MedievalSteve`) | Second collaborator | Transferred to org |
 | GitHub Pages | `https://compaignye-of-the-pilgrim-souldiours.github.io/` | Website admin | Second Owner | Live |
 | Custom domain | TBD | Arca | Prior | Not registered |
