@@ -2,11 +2,11 @@
 
 Public website and digital-platform scaffold for a late-medieval reenactment fellowship (working name).
 
-**Repository:** https://github.com/MedievalSteve/pilgrim-souldiours  
+**Organization:** https://github.com/Compaignye-of-the-Pilgrim-Souldiours  
 
-**Live site (interim, until org transfer):** `https://medievalsteve.github.io/pilgrim-souldiours/`  
+**Repository:** https://github.com/Compaignye-of-the-Pilgrim-Souldiours/Compaignye-of-the-Pilgrim-Souldiours.github.io  
 
-**Target after org transfer:** `https://pilgrim-souldiours.github.io/` — follow [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)
+**Live site:** https://compaignye-of-the-pilgrim-souldiours.github.io/
 
 ## What lives here
 
@@ -22,7 +22,7 @@ Digital assets belong to the **association**, not to the individuals who set the
 | [DIGITAL-PLATFORM.md](DIGITAL-PLATFORM.md) | Master map of the digital suite |
 | [ROADMAP.md](ROADMAP.md) | Domain, Workspace go-live, CRM upgrade criteria |
 | [docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md) | Owners, admins, recovery (no secrets) |
-| [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md) | Create org + transfer repo (manual, required) |
+| [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md) | Org status and remaining owner checklist |
 
 ## Local preview
 
@@ -34,5 +34,6 @@ python3 -m http.server 8080
 
 ## Naming status
 
-- Display name and GitHub org slug `pilgrim-souldiours` are **working drafts**
+- GitHub org slug is set: `Compaignye-of-the-Pilgrim-Souldiours`
+- Display name and legal entity may still be refined
 - Domain not registered — public emails use `@example.com` placeholders until confirmed

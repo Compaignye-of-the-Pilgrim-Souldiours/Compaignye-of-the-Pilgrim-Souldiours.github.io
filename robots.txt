@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pilgrim-souldiours.github.io/sitemap.xml
+Sitemap: https://compaignye-of-the-pilgrim-souldiours.github.io/sitemap.xml

@@ -10,7 +10,7 @@ This repository holds the **public website** and the **specifications** for asso
 
 | Asset | Platform | Notes |
 |---|---|---|
-| Public website | GitHub Pages (this repo) | Transfer to org `pilgrim-souldiours` ASAP; custom domain later |
+| Public website | GitHub Pages (this repo) | Org-owned; custom domain later |
 | Role email | Google Workspace | `Prior@`, `Armorum@`, `Arca@` on the confirmed domain |
 | Cloud storage | Google Drive | Public Assets / Operational Records / Research Library |
 | Membership tracking | Protected Google Sheet | Schema in `docs/membership/SCHEMA.md` |
@@ -40,8 +40,8 @@ Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 
 ## Governance checklist (Arca & Prior)
 
-1. Create a **stand-alone** GitHub Organization — never under `riverbend-medieval` ([docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)).
-2. Org Owners = association custodians; website admin gets repo access, not sole ownership.
+1. Keep the **stand-alone** GitHub Organization — never under `riverbend-medieval` ([docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)).
+2. Org Owners = association custodians (add a second Owner ASAP); website admin gets repo access, not sole ownership.
 3. Prefer Google Workspace for Nonprofits once eligible (ACNC / registered non-profit).
 4. Create role mailboxes; stop using personal Gmail for official correspondence.
 5. Apply Drive folder structure and sharing rules.

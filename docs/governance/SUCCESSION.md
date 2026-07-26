@@ -23,9 +23,9 @@ This project is **stand-alone**. Do not place the Organization, repo, Pages, or 
 
 | Asset | Location / identifier | Primary custodian | Backup custodian | Status |
 |---|---|---|---|---|
-| GitHub Organization | `pilgrim-souldiours` (working slug) | Prior or designated web admin | Second org owner | **Create ASAP** — see [CREATE-GITHUB-ORG.md](CREATE-GITHUB-ORG.md) |
-| Website repo | Currently `MedievalSteve/pilgrim-souldiours` (transfer to org) | Web admin | Second collaborator | Bootstrapped; transfer pending |
-| GitHub Pages | Interim: `https://medievalsteve.github.io/pilgrim-souldiours/` → org URL after transfer | Web admin | Second owner | Enable after each transfer |
+| GitHub Organization | `Compaignye-of-the-Pilgrim-Souldiours` | Association custodian (Owner) | Second org Owner | Live — add second Owner |
+| Website repo | `Compaignye-of-the-Pilgrim-Souldiours/Compaignye-of-the-Pilgrim-Souldiours.github.io` | Website admin (`MedievalSteve`) | Second collaborator | Transferred to org |
+| GitHub Pages | `https://compaignye-of-the-pilgrim-souldiours.github.io/` | Website admin | Second Owner | Live |
 | Custom domain | TBD | Arca | Prior | Not registered |
 | Google Workspace | TBD domain | Arca | Prior | Not started |
 | Role mailboxes | Prior / Armorum / Arca | Role holder | Prior | Placeholders only |
