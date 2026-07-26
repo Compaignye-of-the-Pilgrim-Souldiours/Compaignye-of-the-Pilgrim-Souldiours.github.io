@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pilgrim-souldiours.github.io/sitemap.xml
