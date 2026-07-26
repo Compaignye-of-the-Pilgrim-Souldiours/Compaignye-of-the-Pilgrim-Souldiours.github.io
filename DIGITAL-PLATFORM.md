@@ -40,12 +40,14 @@ Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 
 ## Governance checklist (Arca & Prior)
 
-1. Prefer Google Workspace for Nonprofits once eligible (ACNC / registered non-profit).
-2. Create role mailboxes; stop using personal Gmail for official correspondence.
-3. Apply Drive folder structure and sharing rules.
-4. Build Membership Sheet and Forms from the specs in this repo.
-5. Minute digital-asset ownership ([docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md)).
-6. Keep at least two GitHub org owners and two Workspace admins ([docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md)).
+1. Create a **stand-alone** GitHub Organization — never under `riverbend-medieval` ([docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)).
+2. Org Owners = association custodians; website admin gets repo access, not sole ownership.
+3. Prefer Google Workspace for Nonprofits once eligible (ACNC / registered non-profit).
+4. Create role mailboxes; stop using personal Gmail for official correspondence.
+5. Apply Drive folder structure and sharing rules.
+6. Build Membership Sheet and Forms from the specs in this repo.
+7. Minute digital-asset ownership ([docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md)).
+8. Keep at least two GitHub org Owners and two Workspace admins ([docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md)).
 
 ## Explicit non-goals (v1)
 

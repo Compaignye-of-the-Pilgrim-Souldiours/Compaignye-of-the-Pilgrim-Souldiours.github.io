@@ -13,6 +13,12 @@ At least **two people** must be able to:
 3. Publish website updates (push or approve)
 4. Recover domain DNS (when registered)
 
+## Separation from other groups
+
+This project is **stand-alone**. Do not place the Organization, repo, Pages, or domain under `riverbend-medieval` or any other society’s GitHub account.
+
+**Website admin** (`MedievalSteve`) maintains the public site. That role is custodial technical admin — not ownership of the association. Org **Owners** should be association officers (or a club-controlled login), with at least two Owners.
+
 ## Asset register (fill in as systems go live)
 
 | Asset | Location / identifier | Primary custodian | Backup custodian | Status |
@@ -31,9 +37,9 @@ At least **two people** must be able to:
 
 ## Dual-owner reminder (GitHub)
 
-Create the organization with **two owners** as soon as a second trusted member has a GitHub account. A single-owner org is a succession risk (account lockout loses the website and history).
+Create the organization with **two Owners** who represent the association (Prior + Arca, or club-controlled login + Prior). A single-owner org is a succession risk.
 
-Recommended: Prior (or web admin) + Arca, or Prior + Secretary.
+Invite the website admin (`MedievalSteve`) for repository admin / write access so site work continues without making that personal account the association’s sole Owner.
 
 ## On officer change (checklist)
 
