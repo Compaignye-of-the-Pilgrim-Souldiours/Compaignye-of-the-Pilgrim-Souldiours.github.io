@@ -4,8 +4,9 @@
 
 - [x] Public static site (working brand)
 - [x] Digital platform docs and form field specs
-- [ ] GitHub Organization `pilgrim-souldiours` with two owners
-- [ ] GitHub Pages live at `https://pilgrim-souldiours.github.io/`
+- [ ] GitHub Organization `pilgrim-souldiours` with two owners ([CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md))
+- [x] Repo + scaffold pushed (interim under `MedievalSteve`; transfer to org)
+- [ ] GitHub Pages live at org URL `https://pilgrim-souldiours.github.io/`
 
 ## Next (committee / admin)
 

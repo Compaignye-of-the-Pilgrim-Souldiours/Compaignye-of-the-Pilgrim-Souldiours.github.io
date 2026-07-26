@@ -10,7 +10,7 @@ This repository holds the **public website** and the **specifications** for asso
 
 | Asset | Platform | Notes |
 |---|---|---|
-| Public website | GitHub Pages (this repo) | Org-owned; custom domain later |
+| Public website | GitHub Pages (this repo) | Transfer to org `pilgrim-souldiours` ASAP; custom domain later |
 | Role email | Google Workspace | `Prior@`, `Armorum@`, `Arca@` on the confirmed domain |
 | Cloud storage | Google Drive | Public Assets / Operational Records / Research Library |
 | Membership tracking | Protected Google Sheet | Schema in `docs/membership/SCHEMA.md` |
