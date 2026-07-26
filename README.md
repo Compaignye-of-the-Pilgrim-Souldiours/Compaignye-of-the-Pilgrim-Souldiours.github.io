@@ -20,6 +20,7 @@ Digital assets belong to the **association**, not to the individuals who set the
 | Doc | Purpose |
 |---|---|
 | [DIGITAL-PLATFORM.md](DIGITAL-PLATFORM.md) | Master map of the digital suite |
+| [documents/README.md](documents/README.md) | Charter, draft rules & by-laws (PDFs) |
 | [ROADMAP.md](ROADMAP.md) | Domain, Workspace go-live, CRM upgrade criteria |
 | [docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md) | Owners, admins, recovery (no secrets) |
 | [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md) | Org status and remaining owner checklist |

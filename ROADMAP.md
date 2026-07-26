@@ -4,10 +4,12 @@
 
 - [x] Public static site (working brand)
 - [x] Digital platform docs and form field specs
+- [x] Foundational document PDFs lodged under `documents/` (charter, draft rules, combat & data by-laws)
 - [x] GitHub Organization `Compaignye-of-the-Pilgrim-Souldiours` created ([CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md))
 - [x] Repo transferred to org and renamed for Pages
 - [x] GitHub Pages live at `https://compaignye-of-the-pilgrim-souldiours.github.io/`
 - [ ] Second Org Owner invited — **after inauguration** (roles defined); set-up mode until then
+- [ ] Adopt charter / rules / by-laws at inauguration; replace draft PDFs with adopted versions
 
 ## Next (committee / admin)
 

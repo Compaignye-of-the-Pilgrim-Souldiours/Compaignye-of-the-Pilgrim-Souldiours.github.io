@@ -46,7 +46,7 @@ Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 4. Create role mailboxes; stop using personal Gmail for official correspondence.
 5. Apply Drive folder structure and sharing rules.
 6. Build Membership Sheet and Forms from the specs in this repo.
-7. Minute digital-asset ownership ([docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md)).
+5. Minute digital-asset ownership ([docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md)); align with draft By-law No. 3 in `documents/`.
 8. Keep at least two GitHub org Owners and two Workspace admins ([docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md)).
 
 ## Explicit non-goals (v1)
