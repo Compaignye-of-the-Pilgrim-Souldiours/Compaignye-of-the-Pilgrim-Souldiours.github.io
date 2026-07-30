@@ -1,18 +1,44 @@
 # Foundational documents (set-up mode)
 
-Working drafts for The Compaignye of the Pilgrim Souldiours (*Societas Militum Peregrinorum*).  
-**Status:** not yet adopted at inauguration unless the committee minutes say otherwise. Prefer the PDF filenames below when linking from the public site.
+Working drafts for **The Compaignye of the Pilgrim Souldiours Inc.** (*Societas Militum Peregrinorum*).  
+Synced from the association Drive folder (“New Maryborough Reenactment Group”). Status: not yet adopted at inauguration unless committee minutes say otherwise.
+
+**Motto:** *Peregrini in Via, Fratres in Armis*  
+**Arms:** Or, a falcon displayed proper, collar Azure with three bezants; bourdon and escallop.
+
+## Governance
 
 | File | What it is |
 |---|---|
-| [charter-and-code-of-conduct.pdf](charter-and-code-of-conduct.pdf) | Purpose, Code of Conduct, membership expectations, Chapter officers (Prior, Armorum, Arca). Motto: *Peregrini in Via, Fratres in Armis*. |
-| [draft-association-rules-oft-v8.pdf](draft-association-rules-oft-v8.pdf) | Draft association rules based on Qld OFT model rules (v8, 1 Aug 2024 / current as at 1 July 2024 text). Objects focus **1375–1425** England. |
-| [draft-combat-by-laws.pdf](draft-combat-by-laws.pdf) | Draft By-law No. 1 — Harnischfechten & intergroup combat (armour categories, fair blows, marshalate, conclave). |
-| [draft-by-law-03-data-governance.pdf](draft-by-law-03-data-governance.pdf) | Draft By-law No. 3 — data governance & information management (digital asset ownership, privacy, marshal log retention). |
+| [constitution-rules.docx](constitution-rules.docx) | Association rules (OFT model). Officers: Host, Clerk, Yeoman, Franklin. Objects **1375–1425** England. Classes: Reenactor / Probationary / Associate. |
+| [charter-and-code-of-conduct.docx](charter-and-code-of-conduct.docx) | Purpose, blazon, Code of Conduct, membership expectations. |
+| [social-dynamics-and-structure.docx](social-dynamics-and-structure.docx) | Chapter operations and Chaucerian field roles (Knights, Squires, fellowship). |
+| [meeting-proforma-chapter-founding.docx](meeting-proforma-chapter-founding.docx) | Founding meeting agenda proforma. |
 
-## Notes for editors
+## Martial, kit & assets
 
-1. **Period wording differs by draft.** The Charter’s Code of Conduct cites a broader medieval window (1200–1500) for kit justification; the association objects and combat by-law lock the **core focus to 1375–1425**. Resolve at inauguration; the public site currently follows the constitution/combat focus.
-2. **Sensitive membership data (By-law 3):** Prior and Arca. Operational martial records remain with the Armorum / Marshalate under By-law 1 and the platform docs.
-3. Do not treat Gemini export chrome (UI labels in the PDF) as part of the legal text — clean for adoption later if needed.
-4. After inauguration, replace drafts with adopted versions and update this table’s status column in committee minutes (not secrets).
+| File | What it is |
+|---|---|
+| [draft-combat-by-laws.docx](draft-combat-by-laws.docx) | By-law No. 1 — Harnischfechten & intergroup combat. |
+| [kit-and-standards-of-presentation.docx](kit-and-standards-of-presentation.docx) | Clothing and presentation standards; Kit History required. |
+| [kit-history-template.docx](kit-history-template.docx) | Template for member documentation files. |
+| [martial-curriculum.docx](martial-curriculum.docx) | Training curriculum. |
+| [personal-equipment-and-encampment.docx](personal-equipment-and-encampment.docx) | Personal kit and camp expectations. |
+| [group-equipment-and-asset-policy.docx](group-equipment-and-asset-policy.docx) | Minimal corporate physical assets; Franklin’s inventory. |
+| [knighthood.docx](knighthood.docx) | Knight / Squire reenactment roles. |
+
+## Research primers
+
+| File | What it is |
+|---|---|
+| [shared-path-pilgrimage-primer.docx](shared-path-pilgrimage-primer.docx) | Pilgrimage in England, 1375–1425. |
+| [men-at-arms-primer.docx](men-at-arms-primer.docx) | Arms, armour, and the pilgrim soldier. |
+| [reenactment-based-in-chaucer.docx](reenactment-based-in-chaucer.docx) | Using Chaucer as social texture. |
+| [canterbury-tales-summary-for-novices.docx](canterbury-tales-summary-for-novices.docx) | Novice summary of the Tales. |
+
+## Source of truth
+
+Canonical editable copies live in Google Drive:  
+https://drive.google.com/drive/folders/1Bop9C1PsA5kxzphpq4_VBXgMZnbJwgtv
+
+Re-export into this folder when the Chapter revises drafts. Arms image for the site: `assets/images/arms-heater-shield.jpeg`.

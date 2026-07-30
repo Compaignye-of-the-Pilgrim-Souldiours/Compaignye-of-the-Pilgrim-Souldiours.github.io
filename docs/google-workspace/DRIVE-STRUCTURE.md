@@ -27,7 +27,7 @@ Pilgrim Souldiours — Association/
 | 01 Public Assets | Committee | Edit |
 | 01 Public Assets | Members (optional) | View |
 | 02 Operational Records | Committee | Edit |
-| 02 Operational Records / incidents (if split) | Prior + Armorum only | Edit |
+| 02 Operational Records / incidents (if split) | Host + Yeoman only | Edit |
 | 03 Research Library | All members | View (Comment optional) |
 | 03 Research Library | Committee / librarians | Edit |
 

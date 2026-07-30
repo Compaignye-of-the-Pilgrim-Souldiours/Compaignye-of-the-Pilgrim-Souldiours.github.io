@@ -11,7 +11,7 @@ This repository holds the **public website** and the **specifications** for asso
 | Asset | Platform | Notes |
 |---|---|---|
 | Public website | GitHub Pages (this repo) | Org-owned; custom domain later |
-| Role email | Google Workspace | `Prior@`, `Armorum@`, `Arca@` on the confirmed domain |
+| Role email | Google Workspace | `Host@`, `Clerk@`, `Yeoman@`, `Franklin@` on the confirmed domain |
 | Cloud storage | Google Drive | Public Assets / Operational Records / Research Library |
 | Membership tracking | Protected Google Sheet | Schema in `docs/membership/SCHEMA.md` |
 
@@ -34,11 +34,12 @@ This repository holds the **public website** and the **specifications** for asso
 
 Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 
-- **Prior + Armorum:** sensitive member health / insurance columns; incident files
-- **Committee (incl. Arca):** membership status, ops folders, Workspace admin as assigned
+- **Host + Franklin:** sensitive member health / insurance columns
+- **Yeoman:** marshal logs, conclave, combat clearance
+- **Chapter (incl. Clerk):** membership status, ops folders, Workspace admin as assigned
 - **All members:** Research Library (read); member hub; public site
 
-## Governance checklist (Arca & Prior)
+## Governance checklist (Franklin & Host)
 
 1. Keep the **stand-alone** GitHub Organization — never under `riverbend-medieval` ([docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md)).
 2. Org Owners = association custodians (second Owner after inauguration; set-up mode is fine until then); website admin gets repo access, not sole long-term ownership.

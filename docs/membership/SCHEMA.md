@@ -1,6 +1,6 @@
 # Membership sheet schema
 
-Use one Google Sheet as the membership register. Protect restricted columns so only **Prior** and **Armorum** can edit/view them (Sheet → Data → Protect sheets and ranges, or a separate hidden tab with restricted share).
+Use one Google Sheet as the membership register. Protect restricted columns so only **Host** and **Franklin** can edit/view them (Sheet → Data → Protect sheets and ranges, or a separate hidden tab with restricted share). Yeoman needs combat-clearance dates but not Tier A medical detail.
 
 ## Tab: Members
 
@@ -26,7 +26,7 @@ Use one Google Sheet as the membership register. Protect restricted columns so o
 
 ## Tab: Reminders (optional)
 
-Use formulas or a monthly Arca/Prior review to list rows where:
+Use formulas or a monthly Franklin/Host review to list rows where:
 
 - `insurance_renewal_on` is within 60 days
 - `marshal_cert_expiry` is within 60 days

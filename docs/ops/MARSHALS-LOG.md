@@ -4,8 +4,8 @@
 
 **Implementation:** Google Form → responses Google Sheet stored under `02 Operational Records/Marshals Log/`.
 
-**Who submits:** Armorum or designated marshal.  
-**Who can view the Sheet:** Committee; Prior + Armorum own edits.
+**Who submits:** Yeoman (Marshal) or designated marshal.  
+**Who can view the Sheet:** Chapter; Yeoman + Host own edits.
 
 ## Form settings
 
@@ -43,4 +43,4 @@ Mirror the field labels in row 1. Add computed columns if useful:
 
 ## Backup
 
-Export CSV to `02 Operational Records/Marshals Log/exports/` at least quarterly (Arca calendar).
+Export CSV to `02 Operational Records/Marshals Log/exports/` at least quarterly (Franklin calendar).

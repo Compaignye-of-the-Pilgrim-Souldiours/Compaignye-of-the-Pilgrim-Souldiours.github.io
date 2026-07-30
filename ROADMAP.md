@@ -28,13 +28,13 @@ Replace the Membership Sheet with a dedicated CRM **only if** one or more of the
 - More than ~80 active members with overlapping renewals and certifications that Sheets cannot keep accurate
 - Need for member self-service renewals with payment integration
 - Audit requirements that demand stronger access logging than Sheet version history
-- Prior/Armorum spend excessive hours on manual reminders
+- Host/Yeoman spend excessive hours on manual reminders
 
 Until then, Sheets + Forms remain the supported path.
 
 ## Domain cutover (when ready)
 
-1. Register domain under association billing / Arca custody
+1. Register domain under association billing / Franklin custody
 2. Add `CNAME` file in this repo with the bare domain
 3. Configure DNS for GitHub Pages
 4. Point Workspace MX records at Google

@@ -1,6 +1,6 @@
 # The Compaignye of the Pilgrim Souldiours
 
-Public website and digital-platform scaffold for a late-medieval reenactment fellowship (working name).
+Public website and digital-platform scaffold for a late-medieval living history fellowship (*Societas Militum Peregrinorum*).
 
 **Organization:** https://github.com/Compaignye-of-the-Pilgrim-Souldiours  
 
@@ -8,33 +8,34 @@ Public website and digital-platform scaffold for a late-medieval reenactment fel
 
 **Live site:** https://compaignye-of-the-pilgrim-souldiours.github.io/
 
+**Drive (editable drafts):** https://drive.google.com/drive/folders/1Bop9C1PsA5kxzphpq4_VBXgMZnbJwgtv
+
 ## What lives here
 
-- **Public site** — museum-style pages (about, events, research notes, join, policies)
-- **Platform docs** — how we use Google Workspace, access tiers, Marshal’s Log / Event Conclave form specs, succession
+- **Public site** — heraldic gold / falcon / collar-blue design; about, events, research, join, policies
+- **Foundational documents** — charter, rules, by-laws, kit & research primers under [`documents/`](documents/)
+- **Platform docs** — Workspace, access tiers, Marshal’s Log / Event Conclave specs, succession
 
-Digital assets belong to the **association**, not to the individuals who set them up. See [docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md).
+Digital assets belong to the **association**. See [docs/governance/DIGITAL-ASSET-OWNERSHIP.md](docs/governance/DIGITAL-ASSET-OWNERSHIP.md).
 
 ## Quick links
 
 | Doc | Purpose |
 |---|---|
 | [DIGITAL-PLATFORM.md](DIGITAL-PLATFORM.md) | Master map of the digital suite |
-| [documents/README.md](documents/README.md) | Charter, draft rules & by-laws (PDFs) |
-| [ROADMAP.md](ROADMAP.md) | Domain, Workspace go-live, CRM upgrade criteria |
+| [documents/README.md](documents/README.md) | Charter, rules, by-laws, primers |
+| [ROADMAP.md](ROADMAP.md) | Domain, Workspace go-live, inauguration |
 | [docs/governance/SUCCESSION.md](docs/governance/SUCCESSION.md) | Owners, admins, recovery (no secrets) |
-| [docs/governance/CREATE-GITHUB-ORG.md](docs/governance/CREATE-GITHUB-ORG.md) | Org status and remaining owner checklist |
 
 ## Local preview
-
-Open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8080
 ```
 
-## Naming status
+## Naming & officers (set-up)
 
-- GitHub org slug is set: `Compaignye-of-the-Pilgrim-Souldiours`
-- Display name and legal entity may still be refined
-- Domain not registered — public emails use `@example.com` placeholders until confirmed
+- Display / legal working name: The Compaignye of the Pilgrim Souldiours Inc.
+- Chapter officers: Host, Clerk, Yeoman, Franklin
+- Core period: England **1375–1425**
+- Domain not registered — emails use `@example.com` placeholders

@@ -26,18 +26,18 @@ This project is **stand-alone**. Do not place the Organization, repo, Pages, or 
 | GitHub Organization | `Compaignye-of-the-Pilgrim-Souldiours` | Website admin (`MedievalSteve`) during set-up | Second org Owner (post-inauguration) | Live — set-up mode; second Owner deferred until roles defined |
 | Website repo | `Compaignye-of-the-Pilgrim-Souldiours/Compaignye-of-the-Pilgrim-Souldiours.github.io` | Website admin (`MedievalSteve`) | Second collaborator | Transferred to org |
 | GitHub Pages | `https://compaignye-of-the-pilgrim-souldiours.github.io/` | Website admin | Second Owner | Live |
-| Custom domain | TBD | Arca | Prior | Not registered |
-| Google Workspace | TBD domain | Arca | Prior | Not started |
-| Role mailboxes | Prior / Armorum / Arca | Role holder | Prior | Placeholders only |
-| Membership Sheet | Drive link TBD | Prior + Armorum (restricted cols) | Arca (non-restricted) | |
-| Marshal’s Log | Form/Sheet TBD | Armorum | Prior | |
-| Event Conclave | Form/Sheet TBD | Armorum | Prior | |
-| Member hub | Discord (or other) TBD | Designated moderator | Prior | |
-| Public social | TBD | Comms officer | Prior | |
+| Custom domain | TBD | Franklin | Host | Not registered |
+| Google Workspace | TBD domain | Franklin | Host | Not started |
+| Role mailboxes | Host / Clerk / Yeoman / Franklin | Role holder | Host | Placeholders only |
+| Membership Sheet | Drive link TBD | Host + Franklin (restricted cols) | Clerk (non-restricted) | |
+| Marshal’s Log | Form/Sheet TBD | Yeoman | Host | |
+| Event Conclave | Form/Sheet TBD | Yeoman | Host | |
+| Member hub | Discord (or other) TBD | Designated moderator | Host | |
+| Public social | TBD | Comms officer | Host | |
 
 ## Dual-owner reminder (GitHub)
 
-Create the organization with **two Owners** who represent the association (Prior + Arca, or club-controlled login + Prior). A single-owner org is a succession risk.
+Create the organization with **two Owners** who represent the association (Host + Franklin, or club-controlled login + Host). A single-owner org is a succession risk.
 
 Invite the website admin (`MedievalSteve`) for repository admin / write access so site work continues without making that personal account the association’s sole Owner.
 
@@ -46,6 +46,6 @@ Invite the website admin (`MedievalSteve`) for repository admin / write access s
 1. Add new officer to GitHub org / Workspace / Drive shares
 2. Transfer ownership roles where required
 3. Remove departing officer’s elevated access
-4. Confirm recovery email and 2FA backup location with Prior + Arca
+4. Confirm recovery email and 2FA backup location with Host + Franklin
 5. Update this register (status column and custodians)
 6. Note the handover in committee minutes (no secrets)

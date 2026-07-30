@@ -8,7 +8,7 @@
 
 1. **Stand-alone association org.** Not linked to Riverbend or any other society.
 2. **Never use `riverbend-medieval`** for this org, repo, or Pages.
-3. **Website admin ≠ association owner.** `MedievalSteve` is technical website admin. Org **Owners** should include association custodians (Prior / Arca / club-controlled login), with **at least two Owners**.
+3. **Website admin ≠ association owner.** `MedievalSteve` is technical website admin. Org **Owners** should include association custodians (Host / Franklin / club-controlled login), with **at least two Owners**.
 
 ## Done
 
@@ -21,6 +21,6 @@
 
 We are in **set-up mode**. A second Org Owner waits until roles are defined at inauguration — do not block other scaffold work on this.
 
-- [ ] Invite a **second Org Owner** (Prior, Arca, or club-controlled account)
+- [ ] Invite a **second Org Owner** (Host, Franklin, or club-controlled account)
 - [ ] Confirm `MedievalSteve` remains website admin with repo write (not sole Owner long-term)
 - [ ] Update [SUCCESSION.md](SUCCESSION.md) custodians when the second Owner is added

@@ -9,7 +9,7 @@ Until the real domain exists, do not invent a production domain in DNS. Use this
 1. Confirm legal entity name and eligibility for Nonprofit discount/gratis tier
 2. Apply via Google for Nonprofits
 3. Claim the **association** domain (after registration) — not a personal Gmail
-4. Designate **two Super Admins** (recommend Prior + Arca)
+4. Designate **two Super Admins** (recommend Host + Franklin)
 
 ## 2. Role mailboxes
 
@@ -17,9 +17,10 @@ Create users or Google Groups routed to officers:
 
 | Address | Role | Purpose |
 |---|---|---|
-| `prior@YOUR-DOMAIN` | Prior | Governance, general official mail |
-| `armorum@YOUR-DOMAIN` | Armorum | Arms, inspections, martial safety |
-| `arca@YOUR-DOMAIN` | Arca | Treasurer, Workspace billing, Drive stewardship |
+| `host@YOUR-DOMAIN` | Host (President) | Governance, general official mail |
+| `clerk@YOUR-DOMAIN` | Clerk (Secretary) | Membership applications, minutes, rolls |
+| `yeoman@YOUR-DOMAIN` | Yeoman (Marshal) | Arms, inspections, martial safety |
+| `franklin@YOUR-DOMAIN` | Franklin (Treasurer) | Fees, Workspace billing, Drive stewardship |
 
 Optional later: `website@`, `enquiries@` as groups.
 

@@ -8,7 +8,7 @@ Keep **public** social accounts focused on education, event promotion, and recru
 
 ## Recommended default
 
-**Discord server** owned by the association (Arca or Prior as owner; second admin required).
+**Discord server** owned by the association (Franklin or Host as owner; second admin required).
 
 Alternatives if the membership prefers them: private Facebook group, or Signal for small officer-only threads (Signal is poor as a full member hub archive).
 
@@ -16,7 +16,7 @@ Alternatives if the membership prefers them: private Facebook group, or Signal f
 
 1. Create server; name it for the association (working title fine)
 2. Enable 2FA requirement for moderators
-3. Roles: `@Committee`, `@Members`, `@Armorum`, `@Newcomers`
+3. Roles: `@Committee`, `@Members`, `@Yeoman`, `@Newcomers`
 4. Channels (minimal):
    - `#announcements` (committee post-only)
    - `#general`
@@ -33,7 +33,7 @@ Alternatives if the membership prefers them: private Facebook group, or Signal f
 |---|---|
 | Manuscript-inspired education posts | “Who can trailer kit Saturday?” |
 | Event promotion | Ride shares, kit loans |
-| Recruitment | Fee reminders (or point to Arca email) |
+| Recruitment | Fee reminders (or point to Franklin email) |
 
 ## Register
 
