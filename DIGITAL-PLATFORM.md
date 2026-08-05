@@ -20,6 +20,7 @@ This repository holds the **public website** and the **specifications** for asso
 | Asset | Platform | Spec |
 |---|---|---|
 | Marshal’s Log | Google Form → Sheet | `docs/ops/MARSHALS-LOG.md` |
+| Training Sign-In | Google Form → Sheet; site front at `training.html` | `docs/ops/TRAINING-SIGN-IN.md` |
 | Event Conclave minutes | Google Form (mobile) → Sheet | `docs/ops/EVENT-CONCLAVE.md` |
 | Insurance certificates, incident templates | Drive → Operational Records | `docs/google-workspace/DRIVE-STRUCTURE.md` |
 
@@ -35,7 +36,7 @@ This repository holds the **public website** and the **specifications** for asso
 Full detail: [docs/governance/ACCESS-TIERS.md](docs/governance/ACCESS-TIERS.md)
 
 - **Host + Franklin:** sensitive member health / insurance columns
-- **Yeoman:** marshal logs, conclave, combat clearance
+- **Yeoman:** marshal logs, training sign-in, conclave, combat clearance
 - **Chapter (incl. Clerk):** membership status, ops folders, Workspace admin as assigned
 - **All members:** Research Library (read); member hub; public site
 

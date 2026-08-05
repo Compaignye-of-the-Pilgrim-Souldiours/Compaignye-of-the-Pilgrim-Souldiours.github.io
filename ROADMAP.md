@@ -17,7 +17,7 @@
 - [ ] Register domain (draft idea: something like `pilgrimsouldiours.org.au` — confirm before purchase)
 - [ ] Apply for Google Workspace for Nonprofits when eligible
 - [ ] Create role mailboxes; update `join.html` placeholders
-- [ ] Build Drive tree, Membership Sheet, Marshal’s Log, Event Conclave Form
+- [ ] Build Drive tree, Membership Sheet, Marshal’s Log, Training Sign-In, Event Conclave Form
 - [ ] Minute digital-asset ownership
 - [ ] Stand up private member hub; keep public social educational
 

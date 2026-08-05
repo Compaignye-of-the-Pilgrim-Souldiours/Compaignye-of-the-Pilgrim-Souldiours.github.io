@@ -13,7 +13,8 @@ Pilgrim Souldiours — Association/
 │   ├── Incident report templates/
 │   ├── Kit history documentation/
 │   ├── Marshals Log (Sheet + Form links)/
-│   └── Event Conclave (Sheet + Form links)/
+│   ├── Event Conclave (Sheet + Form links)/
+│   └── Training Sign-In (Sheet + Form links + session exports)/
 └── 03 Research Library/
     ├── Manuscript scans 1375-1425/
     ├── Pattern database/
