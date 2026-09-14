@@ -22,7 +22,8 @@ Synced from the association Drive folder (“New Maryborough Reenactment Group�
 | [draft-combat-by-laws.docx](draft-combat-by-laws.docx) | By-law No. 1 — Harnischfechten & intergroup combat. |
 | [kit-and-standards-of-presentation.docx](kit-and-standards-of-presentation.docx) | Clothing and presentation standards; Kit History required. |
 | [kit-history-template.docx](kit-history-template.docx) | Template for member documentation files. |
-| [martial-curriculum.docx](martial-curriculum.docx) | Training curriculum. |
+| [harnischfechten-curriculum-v2.docx](harnischfechten-curriculum-v2.docx) | Harnischfechten curriculum & technical framework **V2**. Same file also available as [martial-curriculum.docx](martial-curriculum.docx) for older links. |
+| [semester-1-week-1-armored-longsword-foundations-v2.docx](semester-1-week-1-armored-longsword-foundations-v2.docx) | Semester 1, Week 1 lesson plan — armored longsword foundations **V2** (fronted on [training.html](../training.html#next-session)). |
 | [personal-equipment-and-encampment.docx](personal-equipment-and-encampment.docx) | Personal kit and camp expectations. |
 | [group-equipment-and-asset-policy.docx](group-equipment-and-asset-policy.docx) | Minimal corporate physical assets; Franklin’s inventory. |
 | [knighthood.docx](knighthood.docx) | Knight / Squire reenactment roles. |
